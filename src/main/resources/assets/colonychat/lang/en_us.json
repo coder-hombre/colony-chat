@@ -1,0 +1,13 @@
+{
+  "itemGroup.colonychat": "Example Mod Tab",
+  "block.colonychat.example_block": "Example Block",
+  "item.colonychat.example_item": "Example Item",
+
+  "colonychat.configuration.title": "Colony Chat Configs",
+  "colonychat.configuration.section.colonychat.common.toml": "Colony Chat Configs",
+  "colonychat.configuration.section.colonychat.common.toml.title": "Colony Chat Configs",
+  "colonychat.configuration.items": "Item List",
+  "colonychat.configuration.logDirtBlock": "Log Dirt Block",
+  "colonychat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "colonychat.configuration.magicNumber": "Magic Number"
+}
